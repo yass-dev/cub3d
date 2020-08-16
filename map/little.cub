@@ -1,0 +1,13 @@
+R 512 256
+
+NO textures/redbrick.xpm
+EA textures/redbrick.xpm
+WE textures/redbrick.xpm
+SO textures/redbrick.xpm
+S sprites/sprite_2.xpm
+C 0,0,255
+F 255,255,255
+11111
+12201
+100N1
+11111
